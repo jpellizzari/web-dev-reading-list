@@ -33,6 +33,6 @@ Writing good tests
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.86ml2djeq
 
 ## Meta
-Common programming mistakes
+How to write good code
 
 https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.egxutmd80
