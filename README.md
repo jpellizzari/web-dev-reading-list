@@ -9,6 +9,12 @@ JS Event loop
 
 https://youtu.be/8aGhZQkoFbQ
 
+Immutable data
+
+https://www.youtube.com/watch?v=I7IdS-PbEgI
+
+https://www.youtube.com/watch?v=bi8c55JNyGA
+
 ## React
 Optimizing React perf
 
