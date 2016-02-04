@@ -28,6 +28,10 @@ High-performance components
 
 https://youtu.be/KYzlpRvWZ6c
 
+More perf stuff
+
+http://benchling.engineering/performance-engineering-with-react/
+
 ## Flux
 Facebook Flux panel
 
