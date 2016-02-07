@@ -46,3 +46,7 @@ https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.86m
 How to write good code
 
 https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.egxutmd80
+
+The wrong abstraction
+
+http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
