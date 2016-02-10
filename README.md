@@ -50,3 +50,5 @@ https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-
 The wrong abstraction
 
 http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+
+## Ops
