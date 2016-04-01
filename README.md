@@ -56,3 +56,7 @@ https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
 ## Ops
 
 https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/
+
+## Design
+
+https://medium.com/@peduarte/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.j1wgmdfxp
