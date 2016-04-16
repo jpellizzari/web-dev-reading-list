@@ -57,6 +57,8 @@ https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
 
 https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/
 
+https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/
+
 ## Design
 
 https://medium.com/@peduarte/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.j1wgmdfxp
