@@ -59,6 +59,8 @@ https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/
 
 https://letsecure.me/secure-web-deployment-with-lets-encrypt-and-nginx/
 
+https://github.com/juce/lua-resty-shell
+
 ## Design
 
 https://medium.com/@peduarte/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.j1wgmdfxp
