@@ -1,5 +1,8 @@
 # web-dev-reading-list
 
+## Functional Programming
+https://github.com/hemanth/functional-programming-jargon
+
 ## Performance
 Node.js under the hood
 
