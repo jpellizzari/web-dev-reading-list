@@ -70,3 +70,9 @@ https://medium.com/@peduarte/building-the-ui-for-the-new-the-times-website-26dc4
 
 CSS coding techniques
 https://hacks.mozilla.org/2016/05/css-coding-techniques/
+
+## ES6
+
+Destructuring Explained
+
+http://briandgls.com/destructuring-in-javascript/
