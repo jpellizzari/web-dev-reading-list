@@ -71,7 +71,10 @@ https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-l
 https://medium.com/@peduarte/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.j1wgmdfxp
 
 CSS coding techniques
+
 https://hacks.mozilla.org/2016/05/css-coding-techniques/
+
+http://loveux.co/design/design-for-programmers/
 
 ## ES6
 
