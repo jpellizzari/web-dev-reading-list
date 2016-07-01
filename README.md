@@ -84,4 +84,8 @@ Destructuring Explained
 
 http://briandgls.com/destructuring-in-javascript/
 
+## Go
+
+Polymorphism 
+
 https://medium.com/@simplyianm/why-gos-structs-are-superior-to-class-based-inheritance-b661ba897c67?source=linkShare-11779398e49b-1467345433
