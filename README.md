@@ -68,6 +68,8 @@ https://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-l
 
 https://hpbn.co/
 
+https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0?source=linkShare-11779398e49b-1467991935
+
 ## Design
 
 https://medium.com/@peduarte/building-the-ui-for-the-new-the-times-website-26dc4e6569e#.j1wgmdfxp
