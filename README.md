@@ -92,6 +92,10 @@ Polymorphism
 
 https://medium.com/@simplyianm/why-gos-structs-are-superior-to-class-based-inheritance-b661ba897c67?source=linkShare-11779398e49b-1467345433
 
+Pointers
+
+http://piotrzurek.net/2013/09/20/pointers-in-go.html
+
 
 ## D3
 https://medium.com/@sxywu/on-d3-react-and-a-little-bit-of-flux-88a226f328f3#.eth5aga7a
