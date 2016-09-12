@@ -96,6 +96,10 @@ Pointers
 
 http://piotrzurek.net/2013/09/20/pointers-in-go.html
 
+Type assertions
+
+https://medium.com/@mlowicki/type-assertions-in-go-e609759c42e1#.wfmjl8aom
+
 
 ## D3
 https://medium.com/@sxywu/on-d3-react-and-a-little-bit-of-flux-88a226f328f3#.eth5aga7a
