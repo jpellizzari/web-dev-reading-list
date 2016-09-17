@@ -100,6 +100,10 @@ Type assertions
 
 https://medium.com/@mlowicki/type-assertions-in-go-e609759c42e1#.wfmjl8aom
 
+Dependency Injection
+
+https://paddy.io/posts/contexts-and-dependency-injection/
+
 
 ## D3
 https://medium.com/@sxywu/on-d3-react-and-a-little-bit-of-flux-88a226f328f3#.eth5aga7a
