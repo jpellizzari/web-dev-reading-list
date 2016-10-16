@@ -56,6 +56,10 @@ http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 
 https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/
 
+Git Rebase vs Merge
+
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough
+
 ## Ops
 
 https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/
