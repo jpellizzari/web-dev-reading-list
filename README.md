@@ -35,6 +35,10 @@ More perf stuff
 
 http://benchling.engineering/performance-engineering-with-react/
 
+Animation
+
+https://www.youtube.com/watch?v=QlmaI7x7SYo
+
 ## Flux
 Facebook Flux panel
 
