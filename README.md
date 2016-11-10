@@ -39,6 +39,10 @@ Animation
 
 https://www.youtube.com/watch?v=QlmaI7x7SYo
 
+React-Router authentication
+
+http://www.aaron-powell.com/posts/2015-06-08-implementing-security-in-react-with-react-router.html
+
 ## Flux
 Facebook Flux panel
 
