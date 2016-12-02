@@ -128,3 +128,7 @@ https://medium.com/@sxywu/on-d3-react-and-a-little-bit-of-flux-88a226f328f3#.eth
 Webpack 2
 
 https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.jfnugfy1k
+
+Code splitting by page
+
+https://moduscreate.com/code-splitting-for-react-router-with-es6-imports/
