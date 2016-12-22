@@ -18,6 +18,10 @@ https://www.youtube.com/watch?v=I7IdS-PbEgI
 
 https://www.youtube.com/watch?v=bi8c55JNyGA
 
+Fastest site in the world
+
+https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.h2jw0di9m
+
 ## React
 Optimizing React perf
 
