@@ -100,6 +100,10 @@ https://hacks.mozilla.org/2016/05/css-coding-techniques/
 
 http://loveux.co/design/design-for-programmers/
 
+Color Guide
+
+https://blog.prototypr.io/basic-ui-color-guide-7612075cc71a#.i8vl7n6vo
+
 ## ES6
 
 Destructuring Explained
