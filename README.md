@@ -112,6 +112,10 @@ CSS Grid
 
 https://slack.engineering/rebuilding-slack-com-b124c405c193
 
+Stripe 
+
+https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/
+
 ## ES6
 
 Destructuring Explained
