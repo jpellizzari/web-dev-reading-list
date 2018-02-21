@@ -116,6 +116,10 @@ Stripe
 
 https://www.leejamesrobinson.com/blog/how-stripe-designs-beautiful-websites/
 
+Design Hacks
+
+https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+
 ## ES6
 
 Destructuring Explained
