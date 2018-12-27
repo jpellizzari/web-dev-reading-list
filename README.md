@@ -160,3 +160,7 @@ https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.jfnug
 Code splitting by page
 
 https://moduscreate.com/code-splitting-for-react-router-with-es6-imports/
+
+Designing web page layouts for screen readers
+
+https://benrobertson.io/accessibility/designing-layouts-for-screen-readers
