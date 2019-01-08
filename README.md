@@ -164,3 +164,7 @@ https://moduscreate.com/code-splitting-for-react-router-with-es6-imports/
 Designing web page layouts for screen readers
 
 https://benrobertson.io/accessibility/designing-layouts-for-screen-readers
+
+# a11y
+
+http://heydonworks.com/practical_aria_examples/
